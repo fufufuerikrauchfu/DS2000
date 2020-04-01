@@ -1,0 +1,215 @@
+﻿State,State Code,Mother's Education,Mother's Education Code,Deaths,Births
+Alabama,1,9th through 12th grade with no diploma,2,63,6628
+Alabama,1,High school graduate or GED completed,3,161,18365
+Alabama,1,"Some college credit, but not a degree",4,105,13035
+Alabama,1,"Bachelor's degree (BA, AB, BS)",6,50,8959
+Alaska,2,High school graduate or GED completed,3,23,3097
+Arizona,4,8th grade or less,1,21,2517
+Arizona,4,9th through 12th grade with no diploma,2,76,11557
+Arizona,4,High school graduate or GED completed,3,133,21492
+Arizona,4,"Some college credit, but not a degree",4,119,19218
+Arizona,4,"Associate degree (AA, AS)",5,26,6756
+Arizona,4,"Bachelor's degree (BA, AB, BS)",6,59,13019
+Arizona,4,"Master's degree (MA, MS, MEng, MEd, MSW, MBA)",7,20,5141
+Arkansas,5,9th through 12th grade with no diploma,2,51,4575
+Arkansas,5,High school graduate or GED completed,3,123,12520
+Arkansas,5,"Some college credit, but not a degree",4,64,8834
+Arkansas,5,"Bachelor's degree (BA, AB, BS)",6,30,5356
+California,6,8th grade or less,1,102,18261
+California,6,9th through 12th grade with no diploma,2,232,43176
+California,6,High school graduate or GED completed,3,557,112979
+California,6,"Some college credit, but not a degree",4,392,93242
+California,6,"Associate degree (AA, AS)",5,119,30847
+California,6,"Bachelor's degree (BA, AB, BS)",6,230,94168
+California,6,"Master's degree (MA, MS, MEng, MEd, MSW, MBA)",7,95,41456
+California,6,"Doctorate (PhD, EdD) or Professional Degree (MD, DDS, DVM, LLB, JD)",8,31,13703
+Colorado,8,9th through 12th grade with no diploma,2,38,5716
+Colorado,8,High school graduate or GED completed,3,74,12697
+Colorado,8,"Some college credit, but not a degree",4,61,13381
+Colorado,8,"Bachelor's degree (BA, AB, BS)",6,52,15743
+Colorado,8,"Master's degree (MA, MS, MEng, MEd, MSW, MBA)",7,22,7057
+Connecticut,9,9th through 12th grade with no diploma,2,20,2732
+Connecticut,9,High school graduate or GED completed,3,38,6390
+Connecticut,9,"Some college credit, but not a degree",4,31,6371
+Connecticut,9,"Bachelor's degree (BA, AB, BS)",6,20,8226
+Delaware,10,High school graduate or GED completed,3,26,2916
+District of Columbia,11,"Some college credit, but not a degree",4,22,1405
+Florida,12,8th grade or less,1,34,6623
+Florida,12,9th through 12th grade with no diploma,2,202,20152
+Florida,12,High school graduate or GED completed,3,502,69578
+Florida,12,"Some college credit, but not a degree",4,245,41760
+Florida,12,"Associate degree (AA, AS)",5,112,22571
+Florida,12,"Bachelor's degree (BA, AB, BS)",6,124,40002
+Florida,12,"Master's degree (MA, MS, MEng, MEd, MSW, MBA)",7,46,15869
+Georgia,13,8th grade or less,1,38,4411
+Georgia,13,9th through 12th grade with no diploma,2,132,12620
+Georgia,13,High school graduate or GED completed,3,333,39389
+Georgia,13,"Some college credit, but not a degree",4,177,24268
+Georgia,13,"Associate degree (AA, AS)",5,56,8933
+Georgia,13,"Bachelor's degree (BA, AB, BS)",6,122,27994
+Georgia,13,"Master's degree (MA, MS, MEng, MEd, MSW, MBA)",7,36,8654
+Hawaii,15,"Some college credit, but not a degree",4,27,3392
+Idaho,16,High school graduate or GED completed,3,27,5581
+Idaho,16,"Some college credit, but not a degree",4,28,5749
+Illinois,17,8th grade or less,1,23,3496
+Illinois,17,9th through 12th grade with no diploma,2,112,12844
+Illinois,17,High school graduate or GED completed,3,257,32690
+Illinois,17,"Some college credit, but not a degree",4,208,29296
+Illinois,17,"Associate degree (AA, AS)",5,69,11711
+Illinois,17,"Bachelor's degree (BA, AB, BS)",6,115,33544
+Illinois,17,"Master's degree (MA, MS, MEng, MEd, MSW, MBA)",7,38,18020
+Indiana,18,8th grade or less,1,33,3827
+Indiana,18,9th through 12th grade with no diploma,2,87,8779
+Indiana,18,High school graduate or GED completed,3,203,23165
+Indiana,18,"Some college credit, but not a degree",4,112,16650
+Indiana,18,"Associate degree (AA, AS)",5,46,7051
+Indiana,18,"Bachelor's degree (BA, AB, BS)",6,81,16043
+Indiana,18,"Master's degree (MA, MS, MEng, MEd, MSW, MBA)",7,20,5014
+Iowa,19,9th through 12th grade with no diploma,2,30,3067
+Iowa,19,High school graduate or GED completed,3,63,9406
+Iowa,19,"Some college credit, but not a degree",4,36,6607
+Iowa,19,"Bachelor's degree (BA, AB, BS)",6,33,9119
+Kansas,20,9th through 12th grade with no diploma,2,35,3285
+Kansas,20,High school graduate or GED completed,3,64,8695
+Kansas,20,"Some college credit, but not a degree",4,55,7665
+Kansas,20,"Bachelor's degree (BA, AB, BS)",6,27,8172
+Kentucky,21,9th through 12th grade with no diploma,2,57,5643
+Kentucky,21,High school graduate or GED completed,3,125,15683
+Kentucky,21,"Some college credit, but not a degree",4,81,12493
+Kentucky,21,"Associate degree (AA, AS)",5,28,5028
+Kentucky,21,"Bachelor's degree (BA, AB, BS)",6,29,8371
+Louisiana,22,9th through 12th grade with no diploma,2,91,7538
+Louisiana,22,High school graduate or GED completed,3,164,19503
+Louisiana,22,"Some college credit, but not a degree",4,87,12872
+Louisiana,22,"Bachelor's degree (BA, AB, BS)",6,42,9881
+Maine,23,High school graduate or GED completed,3,26,3329
+Maryland,24,9th through 12th grade with no diploma,2,54,5801
+Maryland,24,High school graduate or GED completed,3,122,14434
+Maryland,24,"Some college credit, but not a degree",4,116,13924
+Maryland,24,"Associate degree (AA, AS)",5,32,4733
+Maryland,24,"Bachelor's degree (BA, AB, BS)",6,52,15527
+Maryland,24,"Master's degree (MA, MS, MEng, MEd, MSW, MBA)",7,39,10505
+Massachusetts,25,9th through 12th grade with no diploma,2,24,4522
+Massachusetts,25,High school graduate or GED completed,3,49,11055
+Massachusetts,25,"Some college credit, but not a degree",4,61,12858
+Massachusetts,25,"Bachelor's degree (BA, AB, BS)",6,41,17254
+Massachusetts,25,"Master's degree (MA, MS, MEng, MEd, MSW, MBA)",7,33,12419
+Michigan,26,9th through 12th grade with no diploma,2,99,10252
+Michigan,26,High school graduate or GED completed,3,234,28028
+Michigan,26,"Some college credit, but not a degree",4,182,25861
+Michigan,26,"Associate degree (AA, AS)",5,40,9518
+Michigan,26,"Bachelor's degree (BA, AB, BS)",6,100,22200
+Michigan,26,"Master's degree (MA, MS, MEng, MEd, MSW, MBA)",7,34,9433
+Minnesota,27,9th through 12th grade with no diploma,2,34,4816
+Minnesota,27,High school graduate or GED completed,3,73,11513
+Minnesota,27,"Some college credit, but not a degree",4,77,12206
+Minnesota,27,"Associate degree (AA, AS)",5,32,8869
+Minnesota,27,"Bachelor's degree (BA, AB, BS)",6,52,18524
+Mississippi,28,9th through 12th grade with no diploma,2,47,4209
+Mississippi,28,High school graduate or GED completed,3,101,10687
+Mississippi,28,"Some college credit, but not a degree",4,85,9007
+Mississippi,28,"Associate degree (AA, AS)",5,36,4792
+Missouri,29,9th through 12th grade with no diploma,2,54,6802
+Missouri,29,High school graduate or GED completed,3,139,18136
+Missouri,29,"Some college credit, but not a degree",4,123,16709
+Missouri,29,"Associate degree (AA, AS)",5,30,6489
+Missouri,29,"Bachelor's degree (BA, AB, BS)",6,60,14179
+Missouri,29,"Master's degree (MA, MS, MEng, MEd, MSW, MBA)",7,23,6795
+Montana,30,High school graduate or GED completed,3,20,3147
+Nebraska,31,9th through 12th grade with no diploma,2,23,2060
+Nebraska,31,High school graduate or GED completed,3,36,4942
+Nebraska,31,"Some college credit, but not a degree",4,32,5661
+Nevada,32,9th through 12th grade with no diploma,2,38,5177
+Nevada,32,High school graduate or GED completed,3,76,11290
+Nevada,32,"Some college credit, but not a degree",4,35,7799
+Nevada,32,"Bachelor's degree (BA, AB, BS)",6,20,4849
+New Jersey,34,8th grade or less,1,23,4187
+New Jersey,34,9th through 12th grade with no diploma,2,57,6454
+New Jersey,34,High school graduate or GED completed,3,155,23473
+New Jersey,34,"Some college credit, but not a degree",4,60,13495
+New Jersey,34,"Bachelor's degree (BA, AB, BS)",6,76,26826
+New Jersey,34,"Master's degree (MA, MS, MEng, MEd, MSW, MBA)",7,39,15616
+New Mexico,35,9th through 12th grade with no diploma,2,29,3874
+New Mexico,35,High school graduate or GED completed,3,39,5812
+New Mexico,35,"Some college credit, but not a degree",4,32,6463
+New York,36,8th grade or less,1,64,10546
+New York,36,9th through 12th grade with no diploma,2,142,24154
+New York,36,High school graduate or GED completed,3,301,51786
+New York,36,"Some college credit, but not a degree",4,190,36267
+New York,36,"Associate degree (AA, AS)",5,82,18189
+New York,36,"Bachelor's degree (BA, AB, BS)",6,139,46142
+New York,36,"Master's degree (MA, MS, MEng, MEd, MSW, MBA)",7,79,33330
+North Carolina,37,8th grade or less,1,31,4390
+North Carolina,37,9th through 12th grade with no diploma,2,121,12421
+North Carolina,37,High school graduate or GED completed,3,251,28252
+North Carolina,37,"Some college credit, but not a degree",4,218,26866
+North Carolina,37,"Associate degree (AA, AS)",5,81,11148
+North Carolina,37,"Bachelor's degree (BA, AB, BS)",6,84,23506
+North Carolina,37,"Master's degree (MA, MS, MEng, MEd, MSW, MBA)",7,39,10254
+Ohio,39,8th grade or less,1,43,4819
+Ohio,39,9th through 12th grade with no diploma,2,148,13242
+Ohio,39,High school graduate or GED completed,3,349,37301
+Ohio,39,"Some college credit, but not a degree",4,178,26806
+Ohio,39,"Associate degree (AA, AS)",5,78,12616
+Ohio,39,"Bachelor's degree (BA, AB, BS)",6,107,26013
+Ohio,39,"Master's degree (MA, MS, MEng, MEd, MSW, MBA)",7,37,12254
+Oklahoma,40,9th through 12th grade with no diploma,2,65,6487
+Oklahoma,40,High school graduate or GED completed,3,147,14775
+Oklahoma,40,"Some college credit, but not a degree",4,81,11725
+Oklahoma,40,"Associate degree (AA, AS)",5,31,3928
+Oklahoma,40,"Bachelor's degree (BA, AB, BS)",6,32,8381
+Oregon,41,9th through 12th grade with no diploma,2,30,4212
+Oregon,41,High school graduate or GED completed,3,60,9893
+Oregon,41,"Some college credit, but not a degree",4,59,10421
+Oregon,41,"Bachelor's degree (BA, AB, BS)",6,37,8799
+Pennsylvania,42,8th grade or less,1,42,4471
+Pennsylvania,42,9th through 12th grade with no diploma,2,90,11823
+Pennsylvania,42,High school graduate or GED completed,3,264,34606
+Pennsylvania,42,"Some college credit, but not a degree",4,135,24070
+Pennsylvania,42,"Associate degree (AA, AS)",5,50,11990
+Pennsylvania,42,"Bachelor's degree (BA, AB, BS)",6,89,29284
+Pennsylvania,42,"Master's degree (MA, MS, MEng, MEd, MSW, MBA)",7,52,16003
+South Carolina,45,9th through 12th grade with no diploma,2,65,6376
+South Carolina,45,High school graduate or GED completed,3,114,13793
+South Carolina,45,"Some college credit, but not a degree",4,80,14205
+South Carolina,45,"Associate degree (AA, AS)",5,23,5132
+South Carolina,45,"Bachelor's degree (BA, AB, BS)",6,52,10329
+South Dakota,46,High school graduate or GED completed,3,36,2944
+South Dakota,46,"Some college credit, but not a degree",4,20,2110
+Tennessee,47,9th through 12th grade with no diploma,2,84,7987
+Tennessee,47,High school graduate or GED completed,3,220,22746
+Tennessee,47,"Some college credit, but not a degree",4,142,19065
+Tennessee,47,"Associate degree (AA, AS)",5,26,5868
+Tennessee,47,"Bachelor's degree (BA, AB, BS)",6,62,14338
+Texas,48,8th grade or less,1,84,12913
+Texas,48,9th through 12th grade with no diploma,2,376,53647
+Texas,48,High school graduate or GED completed,3,742,105131
+Texas,48,"Some college credit, but not a degree",4,496,82983
+Texas,48,"Associate degree (AA, AS)",5,115,24008
+Texas,48,"Bachelor's degree (BA, AB, BS)",6,232,69377
+Texas,48,"Master's degree (MA, MS, MEng, MEd, MSW, MBA)",7,105,25678
+Texas,48,"Doctorate (PhD, EdD) or Professional Degree (MD, DDS, DVM, LLB, JD)",8,32,7731
+Utah,49,9th through 12th grade with no diploma,2,22,3362
+Utah,49,High school graduate or GED completed,3,71,9536
+Utah,49,"Some college credit, but not a degree",4,78,12280
+Utah,49,"Associate degree (AA, AS)",5,31,5420
+Utah,49,"Bachelor's degree (BA, AB, BS)",6,51,13104
+Virginia,51,9th through 12th grade with no diploma,2,43,6426
+Virginia,51,High school graduate or GED completed,3,198,26355
+Virginia,51,"Some college credit, but not a degree",4,129,18057
+Virginia,51,"Associate degree (AA, AS)",5,40,7079
+Virginia,51,"Bachelor's degree (BA, AB, BS)",6,74,22427
+Virginia,51,"Master's degree (MA, MS, MEng, MEd, MSW, MBA)",7,43,12733
+Washington,53,9th through 12th grade with no diploma,2,45,7532
+Washington,53,High school graduate or GED completed,3,95,18739
+Washington,53,"Some college credit, but not a degree",4,74,19479
+Washington,53,"Associate degree (AA, AS)",5,35,8512
+Washington,53,"Bachelor's degree (BA, AB, BS)",6,42,18820
+West Virginia,54,High school graduate or GED completed,3,51,5989
+West Virginia,54,"Some college credit, but not a degree",4,33,4111
+Wisconsin,55,9th through 12th grade with no diploma,2,53,4477
+Wisconsin,55,High school graduate or GED completed,3,144,15976
+Wisconsin,55,"Some college credit, but not a degree",4,71,11901
+Wisconsin,55,"Associate degree (AA, AS)",5,34,7227
+Wisconsin,55,"Bachelor's degree (BA, AB, BS)",6,48,15763
+Wisconsin,55,"Master's degree (MA, MS, MEng, MEd, MSW, MBA)",7,27,5338
