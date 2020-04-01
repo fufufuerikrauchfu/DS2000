@@ -1,0 +1,423 @@
+"Notes"	"State"	"State Code"	"Mother's Education"	"Mother's Education Code"	Deaths	Births	Death Rate
+	"Alabama"	"01"	"8th grade or less"	"1"	19	1990	9.55 (Unreliable)
+	"Alabama"	"01"	"9th through 12th grade with no diploma"	"2"	63	6628	9.51
+	"Alabama"	"01"	"High school graduate or GED completed"	"3"	161	18365	8.77
+	"Alabama"	"01"	"Some college credit, but not a degree"	"4"	105	13035	8.06
+	"Alabama"	"01"	"Associate degree (AA, AS)"	"5"	17	4857	3.50 (Unreliable)
+	"Alabama"	"01"	"Bachelor's degree (BA, AB, BS)"	"6"	50	8959	5.58
+	"Alabama"	"01"	"Master's degree (MA, MS, MEng, MEd, MSW, MBA)"	"7"	12	3821	3.14 (Unreliable)
+"Total"	"Alabama"	"01"			435	58941	7.38
+	"Alaska"	"02"	"High school graduate or GED completed"	"3"	23	3097	7.43
+	"Alaska"	"02"	"Some college credit, but not a degree"	"4"	10	2723	3.67 (Unreliable)
+"Total"	"Alaska"	"02"			60	10445	5.74
+	"Arizona"	"04"	"8th grade or less"	"1"	21	2517	8.34
+	"Arizona"	"04"	"9th through 12th grade with no diploma"	"2"	76	11557	6.58
+	"Arizona"	"04"	"High school graduate or GED completed"	"3"	133	21492	6.19
+	"Arizona"	"04"	"Some college credit, but not a degree"	"4"	119	19218	6.19
+	"Arizona"	"04"	"Associate degree (AA, AS)"	"5"	26	6756	3.85
+	"Arizona"	"04"	"Bachelor's degree (BA, AB, BS)"	"6"	59	13019	4.53
+	"Arizona"	"04"	"Master's degree (MA, MS, MEng, MEd, MSW, MBA)"	"7"	20	5141	3.89
+"Total"	"Arizona"	"04"			467	81872	5.70
+	"Arkansas"	"05"	"9th through 12th grade with no diploma"	"2"	51	4575	11.15
+	"Arkansas"	"05"	"High school graduate or GED completed"	"3"	123	12520	9.82
+	"Arkansas"	"05"	"Some college credit, but not a degree"	"4"	64	8834	7.24
+	"Arkansas"	"05"	"Associate degree (AA, AS)"	"5"	15	2723	5.51 (Unreliable)
+	"Arkansas"	"05"	"Bachelor's degree (BA, AB, BS)"	"6"	30	5356	5.60
+	"Arkansas"	"05"	"Unknown or Not Stated"	"Unk"	10	197	50.76 (Unreliable)
+"Total"	"Arkansas"	"05"			304	37520	8.10
+	"California"	"06"	"8th grade or less"	"1"	102	18261	5.59
+	"California"	"06"	"9th through 12th grade with no diploma"	"2"	232	43176	5.37
+	"California"	"06"	"High school graduate or GED completed"	"3"	557	112979	4.93
+	"California"	"06"	"Some college credit, but not a degree"	"4"	392	93242	4.20
+	"California"	"06"	"Associate degree (AA, AS)"	"5"	119	30847	3.86
+	"California"	"06"	"Bachelor's degree (BA, AB, BS)"	"6"	230	94168	2.44
+	"California"	"06"	"Master's degree (MA, MS, MEng, MEd, MSW, MBA)"	"7"	95	41456	2.29
+	"California"	"06"	"Doctorate (PhD, EdD) or Professional Degree (MD, DDS, DVM, LLB, JD)"	"8"	31	13703	2.26
+	"California"	"06"	"Unknown or Not Stated"	"Unk"	224	23826	9.40
+"Total"	"California"	"06"			1981	471658	4.20
+	"Colorado"	"08"	"8th grade or less"	"1"	10	1647	6.07 (Unreliable)
+	"Colorado"	"08"	"9th through 12th grade with no diploma"	"2"	38	5716	6.65
+	"Colorado"	"08"	"High school graduate or GED completed"	"3"	74	12697	5.83
+	"Colorado"	"08"	"Some college credit, but not a degree"	"4"	61	13381	4.56
+	"Colorado"	"08"	"Associate degree (AA, AS)"	"5"	18	5223	3.45 (Unreliable)
+	"Colorado"	"08"	"Bachelor's degree (BA, AB, BS)"	"6"	52	15743	3.30
+	"Colorado"	"08"	"Master's degree (MA, MS, MEng, MEd, MSW, MBA)"	"7"	22	7057	3.12
+"Total"	"Colorado"	"08"			289	64382	4.49
+	"Connecticut"	"09"	"9th through 12th grade with no diploma"	"2"	20	2732	7.32
+	"Connecticut"	"09"	"High school graduate or GED completed"	"3"	38	6390	5.95
+	"Connecticut"	"09"	"Some college credit, but not a degree"	"4"	31	6371	4.87
+	"Connecticut"	"09"	"Associate degree (AA, AS)"	"5"	16	3162	5.06 (Unreliable)
+	"Connecticut"	"09"	"Bachelor's degree (BA, AB, BS)"	"6"	20	8226	2.43
+	"Connecticut"	"09"	"Master's degree (MA, MS, MEng, MEd, MSW, MBA)"	"7"	16	5961	2.68 (Unreliable)
+"Total"	"Connecticut"	"09"			159	35221	4.51
+	"Delaware"	"10"	"9th through 12th grade with no diploma"	"2"	11	1043	10.55 (Unreliable)
+	"Delaware"	"10"	"High school graduate or GED completed"	"3"	26	2916	8.92
+	"Delaware"	"10"	"Some college credit, but not a degree"	"4"	11	2151	5.11 (Unreliable)
+"Total"	"Delaware"	"10"			68	10855	6.26
+	"District of Columbia"	"11"	"9th through 12th grade with no diploma"	"2"	11	952	11.55 (Unreliable)
+	"District of Columbia"	"11"	"High school graduate or GED completed"	"3"	18	2065	8.72 (Unreliable)
+	"District of Columbia"	"11"	"Some college credit, but not a degree"	"4"	22	1405	15.66
+"Total"	"District of Columbia"	"11"			78	9560	8.16
+	"Florida"	"12"	"8th grade or less"	"1"	34	6623	5.13
+	"Florida"	"12"	"9th through 12th grade with no diploma"	"2"	202	20152	10.02
+	"Florida"	"12"	"High school graduate or GED completed"	"3"	502	69578	7.21
+	"Florida"	"12"	"Some college credit, but not a degree"	"4"	245	41760	5.87
+	"Florida"	"12"	"Associate degree (AA, AS)"	"5"	112	22571	4.96
+	"Florida"	"12"	"Bachelor's degree (BA, AB, BS)"	"6"	124	40002	3.10
+	"Florida"	"12"	"Master's degree (MA, MS, MEng, MEd, MSW, MBA)"	"7"	46	15869	2.90
+	"Florida"	"12"	"Doctorate (PhD, EdD) or Professional Degree (MD, DDS, DVM, LLB, JD)"	"8"	14	4656	3.01 (Unreliable)
+	"Florida"	"12"	"Unknown or Not Stated"	"Unk"	83	2419	34.31
+"Total"	"Florida"	"12"			1364	223630	6.10
+	"Georgia"	"13"	"8th grade or less"	"1"	38	4411	8.61
+	"Georgia"	"13"	"9th through 12th grade with no diploma"	"2"	132	12620	10.46
+	"Georgia"	"13"	"High school graduate or GED completed"	"3"	333	39389	8.45
+	"Georgia"	"13"	"Some college credit, but not a degree"	"4"	177	24268	7.29
+	"Georgia"	"13"	"Associate degree (AA, AS)"	"5"	56	8933	6.27
+	"Georgia"	"13"	"Bachelor's degree (BA, AB, BS)"	"6"	122	27994	4.36
+	"Georgia"	"13"	"Master's degree (MA, MS, MEng, MEd, MSW, MBA)"	"7"	36	8654	4.16
+	"Georgia"	"13"	"Unknown or Not Stated"	"Unk"	31	829	37.39
+"Total"	"Georgia"	"13"			928	129243	7.18
+	"Hawaii"	"15"	"9th through 12th grade with no diploma"	"2"	17	3044	5.58 (Unreliable)
+	"Hawaii"	"15"	"High school graduate or GED completed"	"3"	11	3124	3.52 (Unreliable)
+	"Hawaii"	"15"	"Some college credit, but not a degree"	"4"	27	3392	7.96
+	"Hawaii"	"15"	"Associate degree (AA, AS)"	"5"	11	2174	5.06 (Unreliable)
+	"Hawaii"	"15"	"Bachelor's degree (BA, AB, BS)"	"6"	15	3800	3.95 (Unreliable)
+	"Hawaii"	"15"	"Master's degree (MA, MS, MEng, MEd, MSW, MBA)"	"7"	12	1471	8.16 (Unreliable)
+"Total"	"Hawaii"	"15"			95	17517	5.42
+	"Idaho"	"16"	"9th through 12th grade with no diploma"	"2"	16	1946	8.22 (Unreliable)
+	"Idaho"	"16"	"High school graduate or GED completed"	"3"	27	5581	4.84
+	"Idaho"	"16"	"Some college credit, but not a degree"	"4"	28	5749	4.87
+	"Idaho"	"16"	"Bachelor's degree (BA, AB, BS)"	"6"	16	4669	3.43 (Unreliable)
+"Total"	"Idaho"	"16"			101	22181	4.55
+	"Illinois"	"17"	"8th grade or less"	"1"	23	3496	6.58
+	"Illinois"	"17"	"9th through 12th grade with no diploma"	"2"	112	12844	8.72
+	"Illinois"	"17"	"High school graduate or GED completed"	"3"	257	32690	7.86
+	"Illinois"	"17"	"Some college credit, but not a degree"	"4"	208	29296	7.10
+	"Illinois"	"17"	"Associate degree (AA, AS)"	"5"	69	11711	5.89
+	"Illinois"	"17"	"Bachelor's degree (BA, AB, BS)"	"6"	115	33544	3.43
+	"Illinois"	"17"	"Master's degree (MA, MS, MEng, MEd, MSW, MBA)"	"7"	38	18020	2.11
+	"Illinois"	"17"	"Doctorate (PhD, EdD) or Professional Degree (MD, DDS, DVM, LLB, JD)"	"8"	13	4539	2.86 (Unreliable)
+	"Illinois"	"17"	"Unknown or Not Stated"	"Unk"	79	3250	24.31
+"Total"	"Illinois"	"17"			915	149390	6.12
+	"Indiana"	"18"	"8th grade or less"	"1"	33	3827	8.62
+	"Indiana"	"18"	"9th through 12th grade with no diploma"	"2"	87	8779	9.91
+	"Indiana"	"18"	"High school graduate or GED completed"	"3"	203	23165	8.76
+	"Indiana"	"18"	"Some college credit, but not a degree"	"4"	112	16650	6.73
+	"Indiana"	"18"	"Associate degree (AA, AS)"	"5"	46	7051	6.52
+	"Indiana"	"18"	"Bachelor's degree (BA, AB, BS)"	"6"	81	16043	5.05
+	"Indiana"	"18"	"Master's degree (MA, MS, MEng, MEd, MSW, MBA)"	"7"	20	5014	3.99
+"Total"	"Indiana"	"18"			593	82170	7.22
+	"Iowa"	"19"	"9th through 12th grade with no diploma"	"2"	30	3067	9.78
+	"Iowa"	"19"	"High school graduate or GED completed"	"3"	63	9406	6.70
+	"Iowa"	"19"	"Some college credit, but not a degree"	"4"	36	6607	5.45
+	"Iowa"	"19"	"Associate degree (AA, AS)"	"5"	18	4853	3.71 (Unreliable)
+	"Iowa"	"19"	"Bachelor's degree (BA, AB, BS)"	"6"	33	9119	3.62
+"Total"	"Iowa"	"19"			204	38430	5.31
+	"Kansas"	"20"	"9th through 12th grade with no diploma"	"2"	35	3285	10.65
+	"Kansas"	"20"	"High school graduate or GED completed"	"3"	64	8695	7.36
+	"Kansas"	"20"	"Some college credit, but not a degree"	"4"	55	7665	7.18
+	"Kansas"	"20"	"Associate degree (AA, AS)"	"5"	17	3478	4.89 (Unreliable)
+	"Kansas"	"20"	"Bachelor's degree (BA, AB, BS)"	"6"	27	8172	3.30
+	"Kansas"	"20"	"Master's degree (MA, MS, MEng, MEd, MSW, MBA)"	"7"	11	3188	3.45 (Unreliable)
+"Total"	"Kansas"	"20"			220	36519	6.02
+	"Kentucky"	"21"	"8th grade or less"	"1"	18	1796	10.02 (Unreliable)
+	"Kentucky"	"21"	"9th through 12th grade with no diploma"	"2"	57	5643	10.10
+	"Kentucky"	"21"	"High school graduate or GED completed"	"3"	125	15683	7.97
+	"Kentucky"	"21"	"Some college credit, but not a degree"	"4"	81	12493	6.48
+	"Kentucky"	"21"	"Associate degree (AA, AS)"	"5"	28	5028	5.57
+	"Kentucky"	"21"	"Bachelor's degree (BA, AB, BS)"	"6"	29	8371	3.46
+	"Kentucky"	"21"	"Master's degree (MA, MS, MEng, MEd, MSW, MBA)"	"7"	15	4370	3.43 (Unreliable)
+"Total"	"Kentucky"	"21"			361	54752	6.59
+	"Louisiana"	"22"	"8th grade or less"	"1"	12	1648	7.28 (Unreliable)
+	"Louisiana"	"22"	"9th through 12th grade with no diploma"	"2"	91	7538	12.07
+	"Louisiana"	"22"	"High school graduate or GED completed"	"3"	164	19503	8.41
+	"Louisiana"	"22"	"Some college credit, but not a degree"	"4"	87	12872	6.76
+	"Louisiana"	"22"	"Associate degree (AA, AS)"	"5"	19	4531	4.19 (Unreliable)
+	"Louisiana"	"22"	"Bachelor's degree (BA, AB, BS)"	"6"	42	9881	4.25
+	"Louisiana"	"22"	"Master's degree (MA, MS, MEng, MEd, MSW, MBA)"	"7"	10	3453	2.90 (Unreliable)
+"Total"	"Louisiana"	"22"			431	61018	7.06
+	"Maine"	"23"	"High school graduate or GED completed"	"3"	26	3329	7.81
+	"Maine"	"23"	"Some college credit, but not a degree"	"4"	15	2560	5.86 (Unreliable)
+	"Maine"	"23"	"Bachelor's degree (BA, AB, BS)"	"6"	10	2777	3.60 (Unreliable)
+"Total"	"Maine"	"23"			72	12298	5.85
+	"Maryland"	"24"	"8th grade or less"	"1"	19	3065	6.20 (Unreliable)
+	"Maryland"	"24"	"9th through 12th grade with no diploma"	"2"	54	5801	9.31
+	"Maryland"	"24"	"High school graduate or GED completed"	"3"	122	14434	8.45
+	"Maryland"	"24"	"Some college credit, but not a degree"	"4"	116	13924	8.33
+	"Maryland"	"24"	"Associate degree (AA, AS)"	"5"	32	4733	6.76
+	"Maryland"	"24"	"Bachelor's degree (BA, AB, BS)"	"6"	52	15527	3.35
+	"Maryland"	"24"	"Master's degree (MA, MS, MEng, MEd, MSW, MBA)"	"7"	39	10505	3.71
+	"Maryland"	"24"	"Doctorate (PhD, EdD) or Professional Degree (MD, DDS, DVM, LLB, JD)"	"8"	10	3243	3.08 (Unreliable)
+	"Maryland"	"24"	"Unknown or Not Stated"	"Unk"	17	409	41.56 (Unreliable)
+"Total"	"Maryland"	"24"			461	71641	6.43
+	"Massachusetts"	"25"	"9th through 12th grade with no diploma"	"2"	24	4522	5.31
+	"Massachusetts"	"25"	"High school graduate or GED completed"	"3"	49	11055	4.43
+	"Massachusetts"	"25"	"Some college credit, but not a degree"	"4"	61	12858	4.74
+	"Massachusetts"	"25"	"Associate degree (AA, AS)"	"5"	15	4355	3.44 (Unreliable)
+	"Massachusetts"	"25"	"Bachelor's degree (BA, AB, BS)"	"6"	41	17254	2.38
+	"Massachusetts"	"25"	"Master's degree (MA, MS, MEng, MEd, MSW, MBA)"	"7"	33	12419	2.66
+	"Massachusetts"	"25"	"Unknown or Not Stated"	"Unk"	28	2713	10.32
+"Total"	"Massachusetts"	"25"			259	70702	3.66
+	"Michigan"	"26"	"8th grade or less"	"1"	15	2311	6.49 (Unreliable)
+	"Michigan"	"26"	"9th through 12th grade with no diploma"	"2"	99	10252	9.66
+	"Michigan"	"26"	"High school graduate or GED completed"	"3"	234	28028	8.35
+	"Michigan"	"26"	"Some college credit, but not a degree"	"4"	182	25861	7.04
+	"Michigan"	"26"	"Associate degree (AA, AS)"	"5"	40	9518	4.20
+	"Michigan"	"26"	"Bachelor's degree (BA, AB, BS)"	"6"	100	22200	4.50
+	"Michigan"	"26"	"Master's degree (MA, MS, MEng, MEd, MSW, MBA)"	"7"	34	9433	3.60
+	"Michigan"	"26"	"Unknown or Not Stated"	"Unk"	43	1142	37.65
+"Total"	"Michigan"	"26"			755	111426	6.78
+	"Minnesota"	"27"	"8th grade or less"	"1"	19	2372	8.01 (Unreliable)
+	"Minnesota"	"27"	"9th through 12th grade with no diploma"	"2"	34	4816	7.06
+	"Minnesota"	"27"	"High school graduate or GED completed"	"3"	73	11513	6.34
+	"Minnesota"	"27"	"Some college credit, but not a degree"	"4"	77	12206	6.31
+	"Minnesota"	"27"	"Associate degree (AA, AS)"	"5"	32	8869	3.61
+	"Minnesota"	"27"	"Bachelor's degree (BA, AB, BS)"	"6"	52	18524	2.81
+	"Minnesota"	"27"	"Master's degree (MA, MS, MEng, MEd, MSW, MBA)"	"7"	17	7192	2.36 (Unreliable)
+	"Minnesota"	"27"	"Doctorate (PhD, EdD) or Professional Degree (MD, DDS, DVM, LLB, JD)"	"8"	12	2332	5.15 (Unreliable)
+	"Minnesota"	"27"	"Unknown or Not Stated"	"Unk"	13	771	16.86 (Unreliable)
+"Total"	"Minnesota"	"27"			329	68595	4.80
+	"Mississippi"	"28"	"9th through 12th grade with no diploma"	"2"	47	4209	11.17
+	"Mississippi"	"28"	"High school graduate or GED completed"	"3"	101	10687	9.45
+	"Mississippi"	"28"	"Some college credit, but not a degree"	"4"	85	9007	9.44
+	"Mississippi"	"28"	"Associate degree (AA, AS)"	"5"	36	4792	7.51
+	"Mississippi"	"28"	"Bachelor's degree (BA, AB, BS)"	"6"	19	5092	3.73 (Unreliable)
+	"Mississippi"	"28"	"Master's degree (MA, MS, MEng, MEd, MSW, MBA)"	"7"	17	2079	8.18 (Unreliable)
+	"Mississippi"	"28"	"Unknown or Not Stated"	"Unk"	10	68	147.06 (Unreliable)
+"Total"	"Mississippi"	"28"			326	37357	8.73
+	"Missouri"	"29"	"8th grade or less"	"1"	11	1961	5.61 (Unreliable)
+	"Missouri"	"29"	"9th through 12th grade with no diploma"	"2"	54	6802	7.94
+	"Missouri"	"29"	"High school graduate or GED completed"	"3"	139	18136	7.66
+	"Missouri"	"29"	"Some college credit, but not a degree"	"4"	123	16709	7.36
+	"Missouri"	"29"	"Associate degree (AA, AS)"	"5"	30	6489	4.62
+	"Missouri"	"29"	"Bachelor's degree (BA, AB, BS)"	"6"	60	14179	4.23
+	"Missouri"	"29"	"Master's degree (MA, MS, MEng, MEd, MSW, MBA)"	"7"	23	6795	3.38
+	"Missouri"	"29"	"Doctorate (PhD, EdD) or Professional Degree (MD, DDS, DVM, LLB, JD)"	"8"	10	1701	5.88 (Unreliable)
+"Total"	"Missouri"	"29"			457	73034	6.26
+	"Montana"	"30"	"9th through 12th grade with no diploma"	"2"	17	1041	16.33 (Unreliable)
+	"Montana"	"30"	"High school graduate or GED completed"	"3"	20	3147	6.36
+	"Montana"	"30"	"Some college credit, but not a degree"	"4"	14	2715	5.16 (Unreliable)
+"Total"	"Montana"	"30"			65	11799	5.51
+	"Nebraska"	"31"	"8th grade or less"	"1"	10	1156	8.65 (Unreliable)
+	"Nebraska"	"31"	"9th through 12th grade with no diploma"	"2"	23	2060	11.17
+	"Nebraska"	"31"	"High school graduate or GED completed"	"3"	36	4942	7.28
+	"Nebraska"	"31"	"Some college credit, but not a degree"	"4"	32	5661	5.65
+	"Nebraska"	"31"	"Associate degree (AA, AS)"	"5"	16	2674	5.98 (Unreliable)
+	"Nebraska"	"31"	"Bachelor's degree (BA, AB, BS)"	"6"	15	6143	2.44 (Unreliable)
+"Total"	"Nebraska"	"31"			143	25821	5.54
+	"Nevada"	"32"	"9th through 12th grade with no diploma"	"2"	38	5177	7.34
+	"Nevada"	"32"	"High school graduate or GED completed"	"3"	76	11290	6.73
+	"Nevada"	"32"	"Some college credit, but not a degree"	"4"	35	7799	4.49
+	"Nevada"	"32"	"Bachelor's degree (BA, AB, BS)"	"6"	20	4849	4.12
+	"Nevada"	"32"	"Unknown or Not Stated"	"Unk"	16	1039	15.40 (Unreliable)
+"Total"	"Nevada"	"32"			209	35756	5.85
+	"New Hampshire"	"33"	"Some college credit, but not a degree"	"4"	17	2347	7.24 (Unreliable)
+	"New Hampshire"	"33"	"Bachelor's degree (BA, AB, BS)"	"6"	12	3169	3.79 (Unreliable)
+"Total"	"New Hampshire"	"33"			51	12116	4.21
+	"New Jersey"	"34"	"8th grade or less"	"1"	23	4187	5.49
+	"New Jersey"	"34"	"9th through 12th grade with no diploma"	"2"	57	6454	8.83
+	"New Jersey"	"34"	"High school graduate or GED completed"	"3"	155	23473	6.60
+	"New Jersey"	"34"	"Some college credit, but not a degree"	"4"	60	13495	4.45
+	"New Jersey"	"34"	"Associate degree (AA, AS)"	"5"	19	7054	2.69 (Unreliable)
+	"New Jersey"	"34"	"Bachelor's degree (BA, AB, BS)"	"6"	76	26826	2.83
+	"New Jersey"	"34"	"Master's degree (MA, MS, MEng, MEd, MSW, MBA)"	"7"	39	15616	2.50
+	"New Jersey"	"34"	"Unknown or Not Stated"	"Unk"	16	681	23.49 (Unreliable)
+"Total"	"New Jersey"	"34"			451	101250	4.45
+	"New Mexico"	"35"	"9th through 12th grade with no diploma"	"2"	29	3874	7.49
+	"New Mexico"	"35"	"High school graduate or GED completed"	"3"	39	5812	6.71
+	"New Mexico"	"35"	"Some college credit, but not a degree"	"4"	32	6463	4.95
+	"New Mexico"	"35"	"Bachelor's degree (BA, AB, BS)"	"6"	12	3105	3.86 (Unreliable)
+"Total"	"New Mexico"	"35"			139	23767	5.85
+	"New York"	"36"	"8th grade or less"	"1"	64	10546	6.07
+	"New York"	"36"	"9th through 12th grade with no diploma"	"2"	142	24154	5.88
+	"New York"	"36"	"High school graduate or GED completed"	"3"	301	51786	5.81
+	"New York"	"36"	"Some college credit, but not a degree"	"4"	190	36267	5.24
+	"New York"	"36"	"Associate degree (AA, AS)"	"5"	82	18189	4.51
+	"New York"	"36"	"Bachelor's degree (BA, AB, BS)"	"6"	139	46142	3.01
+	"New York"	"36"	"Master's degree (MA, MS, MEng, MEd, MSW, MBA)"	"7"	79	33330	2.37
+	"New York"	"36"	"Doctorate (PhD, EdD) or Professional Degree (MD, DDS, DVM, LLB, JD)"	"8"	15	8113	1.85 (Unreliable)
+	"New York"	"36"	"Unknown or Not Stated"	"Unk"	40	1210	33.06
+"Total"	"New York"	"36"			1053	229737	4.58
+	"North Carolina"	"37"	"8th grade or less"	"1"	31	4390	7.06
+	"North Carolina"	"37"	"9th through 12th grade with no diploma"	"2"	121	12421	9.74
+	"North Carolina"	"37"	"High school graduate or GED completed"	"3"	251	28252	8.88
+	"North Carolina"	"37"	"Some college credit, but not a degree"	"4"	218	26866	8.11
+	"North Carolina"	"37"	"Associate degree (AA, AS)"	"5"	81	11148	7.27
+	"North Carolina"	"37"	"Bachelor's degree (BA, AB, BS)"	"6"	84	23506	3.57
+	"North Carolina"	"37"	"Master's degree (MA, MS, MEng, MEd, MSW, MBA)"	"7"	39	10254	3.80
+	"North Carolina"	"37"	"Doctorate (PhD, EdD) or Professional Degree (MD, DDS, DVM, LLB, JD)"	"8"	12	3017	3.98 (Unreliable)
+"Total"	"North Carolina"	"37"			845	120125	7.03
+	"North Dakota"	"38"	"High school graduate or GED completed"	"3"	14	2099	6.67 (Unreliable)
+	"North Dakota"	"38"	"Some college credit, but not a degree"	"4"	11	2247	4.90 (Unreliable)
+"Total"	"North Dakota"	"38"			47	10737	4.38
+	"Ohio"	"39"	"8th grade or less"	"1"	43	4819	8.92
+	"Ohio"	"39"	"9th through 12th grade with no diploma"	"2"	148	13242	11.18
+	"Ohio"	"39"	"High school graduate or GED completed"	"3"	349	37301	9.36
+	"Ohio"	"39"	"Some college credit, but not a degree"	"4"	178	26806	6.64
+	"Ohio"	"39"	"Associate degree (AA, AS)"	"5"	78	12616	6.18
+	"Ohio"	"39"	"Bachelor's degree (BA, AB, BS)"	"6"	107	26013	4.11
+	"Ohio"	"39"	"Master's degree (MA, MS, MEng, MEd, MSW, MBA)"	"7"	37	12254	3.02
+	"Ohio"	"39"	"Doctorate (PhD, EdD) or Professional Degree (MD, DDS, DVM, LLB, JD)"	"8"	11	3387	3.25 (Unreliable)
+	"Ohio"	"39"	"Unknown or Not Stated"	"Unk"	32	394	81.22
+"Total"	"Ohio"	"39"			983	136832	7.18
+	"Oklahoma"	"40"	"8th grade or less"	"1"	16	1570	10.19 (Unreliable)
+	"Oklahoma"	"40"	"9th through 12th grade with no diploma"	"2"	65	6487	10.02
+	"Oklahoma"	"40"	"High school graduate or GED completed"	"3"	147	14775	9.95
+	"Oklahoma"	"40"	"Some college credit, but not a degree"	"4"	81	11725	6.91
+	"Oklahoma"	"40"	"Associate degree (AA, AS)"	"5"	31	3928	7.89
+	"Oklahoma"	"40"	"Bachelor's degree (BA, AB, BS)"	"6"	32	8381	3.82
+"Total"	"Oklahoma"	"40"			391	50214	7.79
+	"Oregon"	"41"	"9th through 12th grade with no diploma"	"2"	30	4212	7.12
+	"Oregon"	"41"	"High school graduate or GED completed"	"3"	60	9893	6.06
+	"Oregon"	"41"	"Some college credit, but not a degree"	"4"	59	10421	5.66
+	"Oregon"	"41"	"Associate degree (AA, AS)"	"5"	16	3556	4.50 (Unreliable)
+	"Oregon"	"41"	"Bachelor's degree (BA, AB, BS)"	"6"	37	8799	4.21
+	"Oregon"	"41"	"Master's degree (MA, MS, MEng, MEd, MSW, MBA)"	"7"	13	3922	3.31 (Unreliable)
+"Total"	"Oregon"	"41"			233	43631	5.34
+	"Pennsylvania"	"42"	"8th grade or less"	"1"	42	4471	9.39
+	"Pennsylvania"	"42"	"9th through 12th grade with no diploma"	"2"	90	11823	7.61
+	"Pennsylvania"	"42"	"High school graduate or GED completed"	"3"	264	34606	7.63
+	"Pennsylvania"	"42"	"Some college credit, but not a degree"	"4"	135	24070	5.61
+	"Pennsylvania"	"42"	"Associate degree (AA, AS)"	"5"	50	11990	4.17
+	"Pennsylvania"	"42"	"Bachelor's degree (BA, AB, BS)"	"6"	89	29284	3.04
+	"Pennsylvania"	"42"	"Master's degree (MA, MS, MEng, MEd, MSW, MBA)"	"7"	52	16003	3.25
+	"Pennsylvania"	"42"	"Unknown or Not Stated"	"Unk"	106	977	108.50
+"Total"	"Pennsylvania"	"42"			837	137745	6.08
+	"Rhode Island"	"44"	"9th through 12th grade with no diploma"	"2"	10	942	10.62 (Unreliable)
+	"Rhode Island"	"44"	"High school graduate or GED completed"	"3"	13	2265	5.74 (Unreliable)
+	"Rhode Island"	"44"	"Some college credit, but not a degree"	"4"	13	2219	5.86 (Unreliable)
+	"Rhode Island"	"44"	"Unknown or Not Stated"	"Unk"	13	294	44.22 (Unreliable)
+"Total"	"Rhode Island"	"44"			66	10638	6.20
+	"South Carolina"	"45"	"8th grade or less"	"1"	13	1384	9.39 (Unreliable)
+	"South Carolina"	"45"	"9th through 12th grade with no diploma"	"2"	65	6376	10.19
+	"South Carolina"	"45"	"High school graduate or GED completed"	"3"	114	13793	8.27
+	"South Carolina"	"45"	"Some college credit, but not a degree"	"4"	80	14205	5.63
+	"South Carolina"	"45"	"Associate degree (AA, AS)"	"5"	23	5132	4.48
+	"South Carolina"	"45"	"Bachelor's degree (BA, AB, BS)"	"6"	52	10329	5.03
+	"South Carolina"	"45"	"Master's degree (MA, MS, MEng, MEd, MSW, MBA)"	"7"	15	4408	3.40 (Unreliable)
+"Total"	"South Carolina"	"45"			372	57029	6.52
+	"South Dakota"	"46"	"9th through 12th grade with no diploma"	"2"	15	1432	10.47 (Unreliable)
+	"South Dakota"	"46"	"High school graduate or GED completed"	"3"	36	2944	12.23
+	"South Dakota"	"46"	"Some college credit, but not a degree"	"4"	20	2110	9.48
+	"South Dakota"	"46"	"Bachelor's degree (BA, AB, BS)"	"6"	11	2761	3.98 (Unreliable)
+"Total"	"South Dakota"	"46"			94	12134	7.75
+	"Tennessee"	"47"	"8th grade or less"	"1"	19	2730	6.96 (Unreliable)
+	"Tennessee"	"47"	"9th through 12th grade with no diploma"	"2"	84	7987	10.52
+	"Tennessee"	"47"	"High school graduate or GED completed"	"3"	220	22746	9.67
+	"Tennessee"	"47"	"Some college credit, but not a degree"	"4"	142	19065	7.45
+	"Tennessee"	"47"	"Associate degree (AA, AS)"	"5"	26	5868	4.43
+	"Tennessee"	"47"	"Bachelor's degree (BA, AB, BS)"	"6"	62	14338	4.32
+	"Tennessee"	"47"	"Master's degree (MA, MS, MEng, MEd, MSW, MBA)"	"7"	19	5887	3.23 (Unreliable)
+	"Tennessee"	"47"	"Unknown or Not Stated"	"Unk"	13	539	24.12 (Unreliable)
+"Total"	"Tennessee"	"47"			591	81016	7.29
+	"Texas"	"48"	"8th grade or less"	"1"	84	12913	6.51
+	"Texas"	"48"	"9th through 12th grade with no diploma"	"2"	376	53647	7.01
+	"Texas"	"48"	"High school graduate or GED completed"	"3"	742	105131	7.06
+	"Texas"	"48"	"Some college credit, but not a degree"	"4"	496	82983	5.98
+	"Texas"	"48"	"Associate degree (AA, AS)"	"5"	115	24008	4.79
+	"Texas"	"48"	"Bachelor's degree (BA, AB, BS)"	"6"	232	69377	3.34
+	"Texas"	"48"	"Master's degree (MA, MS, MEng, MEd, MSW, MBA)"	"7"	105	25678	4.09
+	"Texas"	"48"	"Doctorate (PhD, EdD) or Professional Degree (MD, DDS, DVM, LLB, JD)"	"8"	32	7731	4.14
+	"Texas"	"48"	"Unknown or Not Stated"	"Unk"	52	582	89.35
+"Total"	"Texas"	"48"			2236	382050	5.85
+	"Utah"	"49"	"9th through 12th grade with no diploma"	"2"	22	3362	6.54
+	"Utah"	"49"	"High school graduate or GED completed"	"3"	71	9536	7.45
+	"Utah"	"49"	"Some college credit, but not a degree"	"4"	78	12280	6.35
+	"Utah"	"49"	"Associate degree (AA, AS)"	"5"	31	5420	5.72
+	"Utah"	"49"	"Bachelor's degree (BA, AB, BS)"	"6"	51	13104	3.89
+	"Utah"	"49"	"Unknown or Not Stated"	"Unk"	15	765	19.61 (Unreliable)
+"Total"	"Utah"	"49"			286	48585	5.89
+"Total"	"Vermont"	"50"			27	5655	4.77
+	"Virginia"	"51"	"8th grade or less"	"1"	14	2840	4.93 (Unreliable)
+	"Virginia"	"51"	"9th through 12th grade with no diploma"	"2"	43	6426	6.69
+	"Virginia"	"51"	"High school graduate or GED completed"	"3"	198	26355	7.51
+	"Virginia"	"51"	"Some college credit, but not a degree"	"4"	129	18057	7.14
+	"Virginia"	"51"	"Associate degree (AA, AS)"	"5"	40	7079	5.65
+	"Virginia"	"51"	"Bachelor's degree (BA, AB, BS)"	"6"	74	22427	3.30
+	"Virginia"	"51"	"Master's degree (MA, MS, MEng, MEd, MSW, MBA)"	"7"	43	12733	3.38
+	"Virginia"	"51"	"Doctorate (PhD, EdD) or Professional Degree (MD, DDS, DVM, LLB, JD)"	"8"	15	3469	4.32 (Unreliable)
+	"Virginia"	"51"	"Unknown or Not Stated"	"Unk"	35	1005	34.83
+"Total"	"Virginia"	"51"			592	100391	5.90
+	"Washington"	"53"	"9th through 12th grade with no diploma"	"2"	45	7532	5.97
+	"Washington"	"53"	"High school graduate or GED completed"	"3"	95	18739	5.07
+	"Washington"	"53"	"Some college credit, but not a degree"	"4"	74	19479	3.80
+	"Washington"	"53"	"Associate degree (AA, AS)"	"5"	35	8512	4.11
+	"Washington"	"53"	"Bachelor's degree (BA, AB, BS)"	"6"	42	18820	2.23
+	"Washington"	"53"	"Master's degree (MA, MS, MEng, MEd, MSW, MBA)"	"7"	18	8392	2.14 (Unreliable)
+	"Washington"	"53"	"Unknown or Not Stated"	"Unk"	19	1319	14.40 (Unreliable)
+"Total"	"Washington"	"53"			340	87562	3.88
+	"West Virginia"	"54"	"9th through 12th grade with no diploma"	"2"	18	2216	8.12 (Unreliable)
+	"West Virginia"	"54"	"High school graduate or GED completed"	"3"	51	5989	8.52
+	"West Virginia"	"54"	"Some college credit, but not a degree"	"4"	33	4111	8.03
+	"West Virginia"	"54"	"Bachelor's degree (BA, AB, BS)"	"6"	14	2592	5.40 (Unreliable)
+"Total"	"West Virginia"	"54"			130	18675	6.96
+	"Wisconsin"	"55"	"8th grade or less"	"1"	19	2282	8.33 (Unreliable)
+	"Wisconsin"	"55"	"9th through 12th grade with no diploma"	"2"	53	4477	11.84
+	"Wisconsin"	"55"	"High school graduate or GED completed"	"3"	144	15976	9.01
+	"Wisconsin"	"55"	"Some college credit, but not a degree"	"4"	71	11901	5.97
+	"Wisconsin"	"55"	"Associate degree (AA, AS)"	"5"	34	7227	4.70
+	"Wisconsin"	"55"	"Bachelor's degree (BA, AB, BS)"	"6"	48	15763	3.05
+	"Wisconsin"	"55"	"Master's degree (MA, MS, MEng, MEd, MSW, MBA)"	"7"	27	5338	5.06
+	"Wisconsin"	"55"	"Unknown or Not Stated"	"Unk"	13	338	38.46 (Unreliable)
+"Total"	"Wisconsin"	"55"			415	64975	6.39
+"Total"	"Wyoming"	"56"			32	6903	4.64
+"Total"					22341	3855500	5.79
+"---"
+"Dataset: Linked Birth / Infant Death Records, 2007-2017"
+"Query Parameters:"
+"Year of Death: 2017"
+"Group By: State; Mother's Education"
+"Show Totals: True"
+"Show Zero Values: False"
+"Show Suppressed: False"
+"Calculate Rates Per: 1,000"
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/lbd.html for more information."
+"---"
+"Query Date: Mar 24, 2020 1:30:51 PM"
+"---"
+"Suggested Citation: United States Department of Health and Human Services (US DHHS), Centers of Disease Control and Prevention"
+"(CDC), National Center for Health Statistics (NCHS), Division of Vital Statistics (DVS). Linked Birth / Infant Death Records"
+"2007-2017, as compiled from data provided by the 57 vital statistics jurisdictions through the Vital Statistics Cooperative"
+"Program, on CDC WONDER On-line Database. Accessed at http://wonder.cdc.gov/lbd-current.html on Mar 24, 2020 1:30:51 PM"
+"---"
+Messages:
+"1. Rows with suppressed Deaths are hidden, but the Deaths and Births values in those rows are included in the totals. Use Quick"
+"Options above to show suppressed rows."
+"---"
+Caveats:
+"1. 'Suppressed' appears instead of death, birth, and rate values when the death value represents 0-9 sub-national events. This"
+"is because the data do not meet the criteria for confidentiality constraints. More information:"
+"http://wonder.cdc.gov/wonder/help/lbd.html#Assurance of Confidentiality."
+"2. 'Unreliable' appears for rates when there are fewer than 20 deaths in the numerator. This is because the figure does not meet"
+"the NCHS standard of reliability or precision. More information: http://wonder.cdc.gov/wonder/help/lbd.html#Unreliable."
+"3. Infant deaths are weighted so numbers may not exactly add to totals due to rounding. More information:"
+"http://wonder.cdc.gov/wonder/help/lbd.html#WeightFactors-Totals."
+"4. Note that there may be slight differences in the number of infant deaths when comparing the Linked Birth / Death Records to"
+"the other vital statistics. More information: http://wonder.cdc.gov/wonder/help/lbd.html#Weight Factors."
+"5. About excluded education data: <p> Education data are recoded to ""Excluded"" for those reporting areas that used the 1989"
+"revision of the U.S. Standard Certificate of Birth, because their data for education are not comparable to the data from the"
+"reporting areas using the 2003 revision of the U.S. Standard Certificate of Birth. Note that prior data years (data for deaths"
+"ocurring in years 2003 - 2006) excluded education data from those reporting areas that had adopted the 2003 revision of the U.S."
+"Standard Certificate of Birth. <ul><li> The following reporting areas have education data excluded: <ul><li> For births that"
+"occurred in 2007:&nbsp; Alabama, Alaska, Arizona, Arkansas, Colorado, Connecticut, District of Columbia, Georgia, Hawaii,"
+"Illinois, Indiana, Iowa, Louisiana, Maine, Maryland, Massachusetts, Michigan, Minnesota, Mississippi, Missouri, Montana, Nevada,"
+"New Jersey, New Mexico, New York, North Carolina, Oklahoma, Oregon, Rhode Island, Utah, Virginia, West Virginia and Wisconsin"
+"(33 reporting areas). </li><li> For births that occurred in 2008:&nbsp; Alabama, Alaska, Arizona, Arkansas, Connecticut,"
+"District of Columbia, Georgia, Hawaii, Illinois, Louisiana, Maine, Maryland, Massachusetts, Michigan, Minnesota, Mississippi,"
+"Missouri, Montana, Nevada, New Jersey, New Mexico, New York, North Carolina, Oklahoma, Oregon, Rhode Island, Utah, Virginia,"
+"West Virginia and Wisconsin (30 reporting areas). </li><li> For births that occurred in 2009:&nbsp; Alabama, Alaska, Arizona,"
+"Arkansas, Connecticut, District of Columbia, Hawaii, Illinois, Louisiana, Maine, Maryland, Massachusetts, Minnesota,"
+"Mississippi, Missouri, Nevada, New Jersey, North Carolina, Oklahoma, Rhode Island, Utah, Virginia, West Virginia and Wisconsin"
+"(24 reporting areas). </li><li> For births that occurred in 2010:&nbsp; Alabama, Alaska, Arizona, Arkansas, Connecticut,"
+"District of Columbia, Hawaii, Illinois, Louisiana, Maine, Maryland, Massachusetts, Minnesota, Mississippi, Missouri, Nevada, New"
+"Jersey, North Carolina, Oklahoma, Rhode Island, Virginia, West Virginia and Wisconsin (23 reporting areas). </li><li> For births"
+"that occurred in 2011:&nbsp; Alabama, Alaska, Arizona, Arkansas, Connecticut, Hawaii, Louisiana, Maine, Massachusetts,"
+"Minnesota, Mississippi, New Jersey, North Carolina, Rhode Island, Virginia, West Virginia and Wisconsin (17 reporting areas)."
+"</li><li> For births that occurred in 2012:&nbsp; Alabama, Alaska, Arizona, Arkansas, Connecticut, Hawaii, Maine, Massachusetts,"
+"Minnesota, Mississippi, New Jersey, Rhode Island, Virginia, and West Virginia (14 reporting areas). </li><li> For births that"
+"occurred in 2013:&nbsp; Alabama, Alaska, Arizona, Arkansas, Connecticut, Hawaii, Maine, Mississippi, New Jersey, Rhode Island,"
+"Virginia, and West Virginia (12 reporting areas). </li><li> For births that occurred in 2014:&nbsp; Alabama, Arizona, Arkansas,"
+"Connecticut, Hawaii, Maine, New Jersey, Rhode Island, and West Virginia (9 reporting areas). </li><li> For births that occurred"
+"in 2015:&nbsp; Connecticut, and New Jersey (2 reporting areas). </li><li> For births that occurred in 2016:&nbsp; Connecticut,"
+"and New Jersey (2 reporting areas). </li></ul> </li></ul> </p>"
